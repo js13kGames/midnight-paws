@@ -1,4 +1,8 @@
 ---
+genres:
+  - stealth
+  - survival
+  - horror
 directors_cut: https://teroj.kapsi.fi/black_cat/
 video: https://youtu.be/ZyV7AmJyflU
 # See github.com/js13kGames/hello-world for supported frontmatter
